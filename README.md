@@ -1,5 +1,10 @@
 ![](/muneeb-banner.gif)
 
+<h1 align="center">Hi 👋, I'm Muneeb</h1>
+
+### Languages
+I am an Expert Full-stack JavaScript developer with 4+ years of experience of building responsive web and mobile apps.
+
 ### Languages
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
