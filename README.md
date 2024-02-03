@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Muneeb</h1>
 
-### Languages
+### About me
 I am an Expert Full-stack JavaScript developer with 4+ years of experience of building responsive web and mobile apps.
 
 ### Languages
