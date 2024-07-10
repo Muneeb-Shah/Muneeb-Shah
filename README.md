@@ -1,5 +1,3 @@
-![](/muneeb-banner.gif)
-
 <h1 align="center">Hi 👋, I'm Muneeb</h1>
 
 ### About me
