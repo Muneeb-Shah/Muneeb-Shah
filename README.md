@@ -15,6 +15,7 @@ I am an Expert Full-stack JavaScript developer with 3+ years of experience of bu
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
 ![Next.js](https://img.shields.io/badge/-Next.js-000?&logo=next.js)
 ![React Native](https://img.shields.io/badge/-React%20Native-000?&logo=react)
+![Supabase](https://img.shields.io/badge/-Supabase-000?&logo=supabase)
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
 ![NestJS](https://img.shields.io/badge/-NestJS-000?&logo=nestjs)
 ![Express.js](https://img.shields.io/badge/-Express.js-000?&logo=express)
